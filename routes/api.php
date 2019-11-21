@@ -64,4 +64,3 @@ Route::get('/kill', function () {
         'data' => '抢购成功!'
     ]);
 });
-x
