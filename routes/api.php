@@ -60,8 +60,8 @@ Route::get('/kill', function () {
             'data' => '很遗憾,你没抢到!'
         ]);
     }
-    $user_id++;
     return response()->json([
         'data' => '抢购成功!'
     ]);
 });
+x

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efb51a37-3647-45f0-bc41-41e26baf973b" name="Default Changelist" comment="" />
+    <list default="true" id="efb51a37-3647-45f0-bc41-41e26baf973b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/Jobs/CreateOrder.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Jobs/CreateOrder.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/app/Jobs/CreateOrder.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
@@ -114,7 +119,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1TrW4BdwCEZg30WUXhBxF5xFGc2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cache_redis" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -158,10 +165,22 @@
       <workItem from="1574236563375" duration="7308000" />
       <workItem from="1574253616532" duration="10184000" />
       <workItem from="1574298091207" duration="1104000" />
+      <workItem from="1574299215077" duration="334000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

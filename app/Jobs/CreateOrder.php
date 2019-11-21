@@ -37,11 +37,13 @@ class CreateOrder implements ShouldQueue
      */
     public function handle()
     {
+
         Order::create([
             'order_id' => Str::random(32),
             'user_id' => $this->user_id,
             'product_id' => $this->product_id,
         ]);
+
     }
 
     public function failed(\Exception $exception)
